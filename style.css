@@ -128,6 +128,10 @@ main {
 
 }
 
+.btc {
+    align-self: flex-en;
+}
+
 .info {
     display: flex;
     flex-direction: column;
@@ -195,6 +199,7 @@ main {
     justify-content: center;
     align-items: center;
     height: 300px;
+    cursor: pointer;
 }
 
 .container4 {
